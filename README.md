@@ -36,7 +36,7 @@ Fiz questão de add um alto nível de segurança, logo de se tratar de um banco
 -validação de senha de cartão na hora de pagar
 <br>
 
---- TECLONOGIAS ---
+--- TECNOLOGIAS ---
 <br>
 
 -Spring Boot
